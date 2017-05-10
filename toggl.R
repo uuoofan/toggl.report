@@ -1,8 +1,18 @@
+#' ---
+#' title: "Toggl Report on `r Sys.Date()`"
+#' authro: "Fan Wu"
+#' output: html_document
+#' ---
+
+
 # install.packages("tm")
 library(pdftools)
 library(lubridate)
 library(knitr)
-fname = "./Toggl_projects_2017-05-08_to_2017-05-08"
+fname = "./Toggl_projects_2017-05-09_to_2017-05-09"
+# Just wanna make sure I can do this vvv :)
+# tday = gsub("(\\S+)(\\d{4}\\-\\d{2}\\-\\d{2})", "\\2", fname)
+tday = as.Date(substr(fname, 32, 41))
 tmp = pdf_text(paste0(fname, ".pdf"))
 time.entry = unlist(strsplit(tmp[2], "\n"))
 time.entry = time.entry[-1]
@@ -18,7 +28,7 @@ cats = rep(cats, cat.no)
 evt = gsub("^\\s|\\s+$", "", gsub("(.+)(\\d+:\\d+:\\d+)", "\\1", time.entry))
 dur = gsub("(.+)(\\d+:\\d+:\\d+)", "\\2", time.entry)
 
-dat = data.frame(Event = evt, Category = cats, Duration = hms(dur))
+dat = data.frame(Date = tday, Event = evt, Category = cats, Duration = hms(dur))
 dat = dat[-cat.id, ]
 rownames(dat) = NULL
 kable(dat)
