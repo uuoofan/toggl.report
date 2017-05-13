@@ -9,7 +9,7 @@
 library(pdftools)
 library(lubridate)
 library(knitr)
-fname = "Toggl_projects_2017-05-09_to_2017-05-09"
+# fname = "Toggl_projects_2017-05-09_to_2017-05-09"
 # Just wanna make sure I can do this vvv :)
 # tday = gsub("(\\S+)(\\d{4}\\-\\d{2}\\-\\d{2})", "\\2", fname)
 toggl.report = function(fname){
