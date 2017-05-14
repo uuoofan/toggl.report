@@ -1,7 +1,7 @@
 #' ---
 #' title: "Toggl Report on `r Sys.Date()`"
 #' authro: "Fan Wu"
-#' output: html_document
+#' output: md_document
 #' ---
 
 
