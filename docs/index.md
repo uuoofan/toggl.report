@@ -862,6 +862,402 @@
 <td align="left">走路👣</td>
 <td align="right">6M 35S</td>
 </tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">改biometrics paper</td>
+<td align="left">寫code⌨️</td>
+<td align="right">1H 22M 42S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">回家拿錢包</td>
+<td align="left">開車🚗</td>
+<td align="right">24M 58S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">拿菜回家</td>
+<td align="left">開車🚗</td>
+<td align="right">11M 45S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">去吹得兒宙</td>
+<td align="left">開車🚗</td>
+<td align="right">10M 0S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">吃速凍炒飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">25M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">吃餅</td>
+<td align="left">吃飯🍚</td>
+<td align="right">13M 45S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">減肥A</td>
+<td align="left">運動🏀</td>
+<td align="right">36M 1S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">走莎莎</td>
+<td align="left">遛狗🐶</td>
+<td align="right">34M 46S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">買菜</td>
+<td align="left">購物🛒</td>
+<td align="right">21M 28S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">洗澡</td>
+<td align="left">洗漱🛁</td>
+<td align="right">19M 13S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-14</td>
+<td align="left">做速凍炒飯</td>
+<td align="left">做飯🥘</td>
+<td align="right">9M 58S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-14</td>
+<td align="left">煎蔥油餅</td>
+<td align="left">做飯🥘</td>
+<td align="right">8M 24S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">BSAP</td>
+<td align="left">Biogen-常規</td>
+<td align="right">1H 0M 21S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">開會</td>
+<td align="left">Biogen-常規</td>
+<td align="right">55M 34S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">看bookdown</td>
+<td align="left">學習</td>
+<td align="right">1H 0M 42S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">S3 method in R</td>
+<td align="left">學習</td>
+<td align="right">10M 30S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">吃米飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">30M 45S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">吃炒飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">21M 5S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">吃餅乾</td>
+<td align="left">吃飯🍚</td>
+<td align="right">10M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">看propensity score</td>
+<td align="left">Biogen-拓展</td>
+<td align="right">46M 12S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">回家</td>
+<td align="left">走路👣</td>
+<td align="right">17M 7S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">去公司</td>
+<td align="left">走路👣</td>
+<td align="right">14M 58S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">走莎莎</td>
+<td align="left">遛狗🐶</td>
+<td align="right">29M 40S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">看眼睛</td>
+<td align="left">發呆</td>
+<td align="right">27M 53S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">洗澡</td>
+<td align="left">洗漱🛁</td>
+<td align="right">18M 58S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">洗臉刷牙</td>
+<td align="left">洗漱🛁</td>
+<td align="right">6M 26S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">做熊市炒雞蛋</td>
+<td align="left">做飯🥘</td>
+<td align="right">25M 5S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">洗碗</td>
+<td align="left">打掃🏡</td>
+<td align="right">13M 0S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-15</td>
+<td align="left">亂刷手機</td>
+<td align="left">上網打混😝</td>
+<td align="right">12M 1S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-15</td>
+<td align="left">回家</td>
+<td align="left">騎車🚲</td>
+<td align="right">7M 3S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">109MS406</td>
+<td align="left">Biogen-常規</td>
+<td align="right">2H 14M 11S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">看GUI report</td>
+<td align="left">Biogen-常規</td>
+<td align="right">17M 58S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">喝小米粥</td>
+<td align="left">吃飯🍚</td>
+<td align="right">27M 3S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">吃午飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">22M 0S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">吃餅乾</td>
+<td align="left">吃飯🍚</td>
+<td align="right">11M 20S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">做小米粥</td>
+<td align="left">做飯🥘</td>
+<td align="right">39M 46S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">亂晃</td>
+<td align="left">發呆</td>
+<td align="right">34M 4S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">走莎莎</td>
+<td align="left">遛狗🐶</td>
+<td align="right">33M 19S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">回家</td>
+<td align="left">騎車🚲</td>
+<td align="right">13M 29S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">去公司</td>
+<td align="left">騎車🚲</td>
+<td align="right">7M 28S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-16</td>
+<td align="left">洗碗</td>
+<td align="left">打掃🏡</td>
+<td align="right">12M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-16</td>
+<td align="left">洗臉刷牙</td>
+<td align="left">洗漱🛁</td>
+<td align="right">3M 52S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">109MS406</td>
+<td align="left">Biogen-常規</td>
+<td align="right">3H 26M 24S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">開會</td>
+<td align="left">Biogen-常規</td>
+<td align="right">2H 1M 16S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">Skype chen</td>
+<td align="left">聯繫</td>
+<td align="right">1H 9M 41S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">修水管</td>
+<td align="left">打掃🏡</td>
+<td align="right">55M 46S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">跑步</td>
+<td align="left">運動🏀</td>
+<td align="right">52M 6S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">吃湯面</td>
+<td align="left">吃飯🍚</td>
+<td align="right">23M 26S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">吃剩飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">21M 28S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">吃餅乾</td>
+<td align="left">吃飯🍚</td>
+<td align="right">5M 41S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">洗澡</td>
+<td align="left">洗漱🛁</td>
+<td align="right">35M 6S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">走莎莎</td>
+<td align="left">遛狗🐶</td>
+<td align="right">34M 44S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">回家</td>
+<td align="left">騎車🚲</td>
+<td align="right">11M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">回公司</td>
+<td align="left">騎車🚲</td>
+<td align="right">9M 0S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">去公司</td>
+<td align="left">騎車🚲</td>
+<td align="right">8M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">回家吃飯</td>
+<td align="left">騎車🚲</td>
+<td align="right">5M 0S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-17</td>
+<td align="left">做麵吃</td>
+<td align="left">做飯🥘</td>
+<td align="right">24M 28S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-17</td>
+<td align="left">MSPATH</td>
+<td align="left">Biogen-拓展</td>
+<td align="right">18M 21S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-18</td>
+<td align="left">109MS406</td>
+<td align="left">Biogen-常規</td>
+<td align="right">4H 45M 11S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-18</td>
+<td align="left">開會</td>
+<td align="left">Biogen-常規</td>
+<td align="right">40M 51S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-18</td>
+<td align="left">Sweden survey project</td>
+<td align="left">寫code⌨️</td>
+<td align="right">1H 15M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-18</td>
+<td align="left">熱飯吃飯</td>
+<td align="left">吃飯🍚</td>
+<td align="right">18M 40S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-18</td>
+<td align="left">吃餅乾</td>
+<td align="left">吃飯🍚</td>
+<td align="right">9M 9S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-18</td>
+<td align="left">走莎莎</td>
+<td align="left">遛狗🐶</td>
+<td align="right">26M 47S</td>
+</tr>
+<tr class="odd">
+<td align="left">2017-05-18</td>
+<td align="left">去公司</td>
+<td align="left">騎車🚲</td>
+<td align="right">9M 0S</td>
+</tr>
+<tr class="even">
+<td align="left">2017-05-18</td>
+<td align="left">洗臉刷牙</td>
+<td align="left">洗漱🛁</td>
+<td align="right">6M 41S</td>
+</tr>
 </tbody>
 </table>
 
