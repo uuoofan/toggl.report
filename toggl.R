@@ -6,6 +6,7 @@
 
 
 # install.packages("tm")
+# .libPaths("/Library/Frameworks/R.framework/Versions/3.3/Resources/library")
 library(pdftools)
 library(lubridate)
 library(knitr)
