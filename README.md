@@ -11,3 +11,5 @@ start somewhere.  And here it is.
 I vaguely remember that at some time I read from (maybe) Stephen Wolfram's blog
 that we have to have a better arrangement for our daily routines, so that when
 it comes to real works, we still have the time and energy for them. 
+
+$$ Test
